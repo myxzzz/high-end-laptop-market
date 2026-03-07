@@ -1,0 +1,17 @@
+# 排除比赛资料 
+25 三创赛资料/ 
+ 
+# Python 
+__pycache__/ 
+*.py[cod] 
+venv/ 
+ 
+# Jupyter 
+.ipynb_checkpoints 
+ 
+# 系统文件 
+.DS_Store 
+Thumbs.db 
+ 
+# VSCode 
+.vscode/settings.json 
