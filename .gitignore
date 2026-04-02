@@ -15,3 +15,9 @@ Thumbs.db
  
 # VSCode 
 .vscode/settings.json 
+
+#opencode
+opencode.json
+
+# 结果报告
+reports/
