@@ -1,0 +1,50 @@
+﻿型号,品牌,售价,评论数,标题特征词,内存(G),储存(G),独立显卡,显存
+Model_002,Brand_B,26999,2100,鸿蒙操作系统,32,2048,无,无
+Model_002,Brand_B,23999,2100,鸿蒙操作系统,32,1024,无,无
+Model_003,Brand_C,9999,5400,AI 酷睿Ultra RTX50系,32,1024,5060,8GB GDDR7
+Model_003,Brand_C,10999,5400,AI 酷睿Ultra RTX50系,32,1024,5070,12GB GDDR7
+Model_007,Brand_Q,18999,5400,AI 酷睿Ultra RTX50系,64,2048,5070,12GB GDDR7
+Model_005,Brand_Q,13405,20000,AI 酷睿Ultra,32,1024,无,无
+Model_005,Brand_Q,14038,20000,AI 酷睿Ultra,32,2048,无,无
+Model_005,Brand_Q,15095,20000,AI 酷睿Ultra,32,4096,无,无
+Model_012,Brand_O,22499,100,AI 酷睿Ultra RTX50系,32,2048,5070,12GB GDDR7
+Model_012,Brand_O,29999,100,AI 酷睿Ultra RTX50系,64,2048,5080,16GB GDDR7
+Model_012,Brand_O,34999,100,AI 酷睿Ultra RTX50系,64,2048,5090,24GB GDDR7
+Model_013,Brand_O,35999,100,AI 锐龙9 RTX50系,64,2048,5090,24GB GDDR7
+Model_011,Brand_O,19499,100,AI 锐龙9 RTX50系,32,2048,5070,12GB GDDR7
+Model_001,Brand_T,14499,20000,M5处理器,16,1024,无,无
+Model_001,Brand_T,15499,20000,M5处理器,24,1024,无,无
+Model_001,Brand_T,17499,20000,M5处理器,16,2048,无,无
+Model_001,Brand_T,21999,20000,M5处理器,16,4096,无,无
+Model_001,Brand_T,14499,20000,M5处理器,24,512,无,无
+Model_001,Brand_T,18999,20000,M5处理器,24,2048,无,无
+Model_001,Brand_T,23499,20000,M5处理器,24,4096,无,无
+Model_001,Brand_T,15999,20000,M5处理器,32,512,无,无
+Model_001,Brand_T,17499,20000,M5处理器,32,1024,无,无
+Model_001,Brand_T,20499,20000,M5处理器,32,2048,无,无
+Model_001,Brand_T,24999,20000,M5处理器,32,4096,无,无
+Model_009,Brand_N,30499,2000,AMD锐龙AI9 RTX50系,64,4096,5090,24GB GDDR7
+Model_009,Brand_N,27499,2000,AMD锐龙AI9 RTX50系,64,4096,5080,16GB GDDR7
+Model_009,Brand_N,16999,2000,AMD锐龙AI9 RTX50系,64,2048,5060,8GB GDDR7
+Model_009,Brand_N,18499,2000,AMD锐龙AI9 RTX50系,64,2048,5070,12GB GDDR7
+Model_006,Brand_Q,17499,100,AI 酷睿Ultra,32,1024,无,无
+Model_006,Brand_Q,18999,100,AI 酷睿Ultra,32,2048,无,无
+Model_010,Brand_N,7999,20000,AI 酷睿Ultra,32,1024,无,无
+Model_016,Brand_Q,34499,500,AI 酷睿Ultra RTX50系,64,2048,5090,24GB GDDR7
+Model_016,Brand_Q,14499,500,AI 酷睿Ultra RTX50系,64,2048,5060,8GB GDDR7
+Model_016,Brand_Q,11299,500,AI 酷睿Ultra RTX50系,32,1024,5060,8GB GDDR7
+Model_016,Brand_Q,13399,500,AI 酷睿Ultra RTX50系,32,1024,5070,12GB GDDR7
+Model_016,Brand_Q,16199,500,AI 酷睿Ultra RTX50系,64,1024,5070,12GB GDDR7
+Model_016,Brand_Q,19999,500,AI 酷睿Ultra RTX50系,32,1024,5080,16GB GDDR7
+Model_016,Brand_Q,36499,500,AI 酷睿Ultra RTX50系,64,4096,5090,24GB GDDR7
+Model_016,Brand_Q,24199,500,AI 酷睿Ultra RTX50系,64,2048,5080,16GB GDDR7
+Model_008,Brand_M,13699,100,酷睿Ultra,32,1024,无,无
+Model_015,Brand_O,44999,200,AI 酷睿Ultra RTX50系,64,6144,5090,24GB GDDR7
+Model_015,Brand_O,36999,200,AI 酷睿Ultra RTX50系,64,6144,5080,16GB GDDR7
+Model_014,Brand_O,8999,57, AI  Evo,32,1024,无,无
+Model_004,Brand_N,32598,100,酷睿Ultra RTX50系,64,2048,5090,24GB GDDR7
+Model_004,Brand_N,32298,100,酷睿Ultra RTX50系,64,3072,5090,24GB GDDR7
+Model_004,Brand_N,30998,100,酷睿Ultra RTX50系,64,2048,5090,24GB GDDR7
+Model_004,Brand_N,28096 ,100,酷睿Ultra RTX50系,64,2048,5080,16GB GDDR7
+Model_004,Brand_N,22998,100,酷睿Ultra RTX50系,32,1024,5080,16GB GDDR7
+Model_004,Brand_N,29795,100,酷睿Ultra RTX50系,64,4096,5080,16GB GDDR7
