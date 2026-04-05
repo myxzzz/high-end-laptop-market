@@ -25,7 +25,7 @@ def execute(dataframe1=None, dataframe2=None, dataframe3=None):
     }).reset_index()
 
     # 3. 【核心创新】计算“估算产值” (Economic Impact)
-    # 用 售价 * 评论数 模拟销售额，这样 3万元的苹果比 1万元的联想更占权重
+    # 用 售价 * 评论数 模拟销售额，这样 3万元的Brand_A比 1万元的Brand_B更占权重
     model_df['估算产值'] = model_df[price_col] * model_df[comment_col]
 
     # 4. 按品牌聚合
